@@ -1,5 +1,5 @@
 # [E] Core Java - Collection Framework
-Core Java MultiThreading and Concurrency Concepts
+Core Java Collection Framework Concepts
 Topics :
 
 1. Collections Interface 
